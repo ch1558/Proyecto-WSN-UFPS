@@ -1,0 +1,1 @@
+this folder is for upload the different scripts created for the correct usage of database.
